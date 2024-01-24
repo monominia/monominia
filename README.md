@@ -1,10 +1,9 @@
 ### 👋 Hi there, I’m Ji.
 #### I'm a web developer at Seismic Software.
 
-- :surfer: I'm current working on [Percolate](https://www.percolate.com)
-- :baby: I love to take care of babies.
-- 👀 I’m interested in SPA and PWA.
-- 🌱 I’m currently learning TS and python.
+- :surfer: I'm current working on [Seismic](https://www.seismic.com)
+- 👀 I’m interested in Machine Learning.
+- 🌱 I’m currently learning TS and C#.
 - 📫 How to reach me jqi@seismic.com
 
 

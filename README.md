@@ -3,7 +3,7 @@
 
 - :surfer: I'm currently working on [Seismic](https://www.seismic.com)
 - 👀 I’m interested in distributed system.
-- 🌱 I’m currently learning [TS](https://www.typescriptlang.org/) and [C#](https://dotnet.microsoft.com/en-us/languages/csharp).
+- 🌱 I’m currently learning [TS](https://www.typescriptlang.org/).
 - 📫 How to reach me jqi@seismic.com
 
 
